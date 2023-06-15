@@ -13,7 +13,6 @@ Willkommen beim GeoRechner, einer Webanwendung, die es Ihnen ermöglicht, versch
 ## Um den GeoRechner erfolgreich zu nutzen, müssen folgende Systemanforderungen erfüllt sein:
 
 - Webbrowser mit JavaScript-Unterstützung
-- Internetverbindung
 - Unterstützung für moderne Webtechnologien wie HTML5, CSS3 und JavaScript
 # 3. Installation
 ## Folgende Schritte sind erforderlich, um den GeoRechner lokal aufzusetzen:
